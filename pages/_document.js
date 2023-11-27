@@ -4,7 +4,7 @@ export default function Document() {
   const meta = {
     title: 'Ioannis Psomadelis | Portfolio & More',
     description:
-      'Highly skilled and dedicated Frontend Programmer with expertise in React, Angular, Next.js, HTML, JavaScript, and CSS/SCSS and duda CMS & Wordpress.',
+      'Highly skilled and dedicated Frontend Programmer with expertise in Angular, HTML, JavaScript, and CSS/SCSS and DUDA CMS & Wordpress.',
     image: ''
   }
 
