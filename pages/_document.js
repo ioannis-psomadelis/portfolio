@@ -2,9 +2,9 @@ import { Html, Head, Main, NextScript } from 'next/document'
 
 export default function Document() {
   const meta = {
-    title: 'Ioannis Psomadelis | Portfolio & More',
+    title: 'Ioannis Psomadelis',
     description:
-      'Highly skilled and dedicated Frontend Programmer with expertise in Angular, HTML, JavaScript, and CSS/SCSS and DUDA CMS & Wordpress.',
+      'I am passionate about creating intuitive and user-friendly interfaces and have a proven track record of delivering high-quality solutions that meet client’s needs and enhance user experiences. Additionally, I have hands-on experience working in customer-facing roles, providing differentiated software technology solutions.',
     image: ''
   }
 
